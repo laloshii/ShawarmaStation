@@ -1,0 +1,751 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "شاورما عادي",
+      "desc": "شاورما دجاج مع ثوم وبطاطا وخيار مخلل",
+      "price": 200,
+      "image": "",
+      "category_id": 1,
+      "quick_id": 2,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "شاورما سوبر",
+      "desc": "شاورما دجاج بحشوة أكبر وإضافات مميزة",
+      "price": 250,
+      "image": "",
+      "category_id": 1,
+      "quick_id": 2,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "بيبي شاورما",
+      "desc": "شاورما صغيرة مثالية للأطفال",
+      "price": 150,
+      "image": "",
+      "category_id": 1,
+      "quick_id": 2,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "شاورما ستيشن",
+      "desc": "شاورما بخلطة المطعم الخاصة",
+      "price": 250,
+      "image": "",
+      "category_id": 1,
+      "quick_id": 2,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 5,
+      "name": "شاورما دبل",
+      "desc": "دبل حشوة دجاج مع الثوم والبطاطا",
+      "price": 350,
+      "image": "",
+      "category_id": 1,
+      "quick_id": 2,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 6,
+      "name": "صحن بطاطا",
+      "desc": "بطاطا مقلية ذهبية ومقرمشة",
+      "price": 150,
+      "image": "",
+      "category_id": 1,
+      "quick_id": 3,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 7,
+      "name": "وجبة شاورما إيطالي",
+      "desc": "شاورما إيطالي مع بطاطا ومشروب",
+      "price": 500,
+      "image": "",
+      "category_id": 1,
+      "quick_id": 1,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 8,
+      "name": "وجبة اكسترا",
+      "desc": "شاورما بحشوة إضافية مع بطاطا ومشروب",
+      "price": 350,
+      "image": "",
+      "category_id": 1,
+      "quick_id": 1,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 9,
+      "name": "وجبة دبل اكسترا",
+      "desc": "دبل شاورما مع بطاطا ومشروب",
+      "price": 600,
+      "image": "",
+      "category_id": 1,
+      "quick_id": 1,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 10,
+      "name": "وجبة شاورما حلبي",
+      "desc": "شاورما بنكهة حلبية مع بطاطا ومشروب",
+      "price": 500,
+      "image": "",
+      "category_id": 1,
+      "quick_id": 1,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 11,
+      "name": "عرض شاورما ٣+٢",
+      "desc": "خمس سندويشات شاورما بسعر مميز",
+      "price": 750,
+      "image": "",
+      "category_id": 1,
+      "quick_id": 1,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 12,
+      "name": "وجبة عربي ٣ أشخاص",
+      "desc": "شاورما عربي تكفي ٣ أشخاص مع الملحقات",
+      "price": 1000,
+      "image": "",
+      "category_id": 1,
+      "quick_id": 1,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 13,
+      "name": "وجبة عربي ٥ أشخاص",
+      "desc": "شاورما عربي تكفي ٥ أشخاص مع الملحقات",
+      "price": 1500,
+      "image": "",
+      "category_id": 1,
+      "quick_id": 1,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 14,
+      "name": "وجبة عربي عائلي",
+      "desc": "وجبة عائلية كبيرة مع كل الملحقات",
+      "price": 2500,
+      "image": "",
+      "category_id": 1,
+      "quick_id": 1,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 15,
+      "name": "شاورما عربي نصف كيلو",
+      "desc": "نصف كيلو لحم شاورما عربي",
+      "price": 900,
+      "image": "",
+      "category_id": 1,
+      "quick_id": 1,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 16,
+      "name": "شاورما عربي كيلو",
+      "desc": "كيلو كامل لحم شاورما عربي",
+      "price": 1800,
+      "image": "",
+      "category_id": 1,
+      "quick_id": 1,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 17,
+      "name": "ماشروم برغر لحمة",
+      "desc": "برغر لحم مع صوص المشروم والجبنة",
+      "price": 550,
+      "image": "",
+      "category_id": 2,
+      "quick_id": 2,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 18,
+      "name": "سموك برغر لحمة",
+      "desc": "برغر لحم بنكهة مدخّنة",
+      "price": 550,
+      "image": "",
+      "category_id": 2,
+      "quick_id": 2,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 19,
+      "name": "تشيز برغر لحمة",
+      "desc": "برغر لحم مع جبنة ذائبة",
+      "price": 550,
+      "image": "",
+      "category_id": 2,
+      "quick_id": 2,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 20,
+      "name": "كلاسيك برغر لحمة",
+      "desc": "برغر لحم كلاسيكي مع الخضار",
+      "price": 500,
+      "image": "",
+      "category_id": 2,
+      "quick_id": 2,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 21,
+      "name": "مكسيكن برغر لحمة",
+      "desc": "برغر لحم حار بالنكهة المكسيكية",
+      "price": 550,
+      "image": "",
+      "category_id": 2,
+      "quick_id": 2,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 22,
+      "name": "ستيشن برغر لحمة",
+      "desc": "برغر لحم بخلطة المطعم الخاصة",
+      "price": 550,
+      "image": "",
+      "category_id": 2,
+      "quick_id": 2,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 23,
+      "name": "ماشروم برغر دجاج",
+      "desc": "برغر دجاج مع صوص المشروم",
+      "price": 300,
+      "image": "",
+      "category_id": 2,
+      "quick_id": 2,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 24,
+      "name": "سموك برغر دجاج",
+      "desc": "برغر دجاج بنكهة مدخّنة",
+      "price": 250,
+      "image": "",
+      "category_id": 2,
+      "quick_id": 2,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 25,
+      "name": "كلاسيك برغر دجاج",
+      "desc": "برغر دجاج كلاسيكي مع الخضار",
+      "price": 200,
+      "image": "",
+      "category_id": 2,
+      "quick_id": 2,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 26,
+      "name": "تشيز برغر دجاج",
+      "desc": "برغر دجاج مع جبنة ذائبة",
+      "price": 250,
+      "image": "",
+      "category_id": 2,
+      "quick_id": 2,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 27,
+      "name": "مكسيكن برغر دجاج",
+      "desc": "برغر دجاج حار بالنكهة المكسيكية",
+      "price": 350,
+      "image": "",
+      "category_id": 2,
+      "quick_id": 2,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 28,
+      "name": "ستيشن برغر دجاج",
+      "desc": "برغر دجاج بخلطة المطعم الخاصة",
+      "price": 300,
+      "image": "",
+      "category_id": 2,
+      "quick_id": 2,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 29,
+      "name": "دايناميت برجر",
+      "desc": "برغر دجاج حار بصوص الدايناميت",
+      "price": 350,
+      "image": "",
+      "category_id": 2,
+      "quick_id": 2,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 30,
+      "name": "سندويش زنجر",
+      "desc": "دجاج مقرمش حار مع الصوص",
+      "price": 300,
+      "image": "",
+      "category_id": 2,
+      "quick_id": 2,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 31,
+      "name": "سندويش تندر",
+      "desc": "قطع دجاج تندر طرية ومقرمشة",
+      "price": 300,
+      "image": "",
+      "category_id": 2,
+      "quick_id": 2,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 32,
+      "name": "سندويش كريسبي",
+      "desc": "دجاج كريسبي مقرمش مع الصوص",
+      "price": 250,
+      "image": "",
+      "category_id": 2,
+      "quick_id": 2,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 33,
+      "name": "سندويش مكسيكي",
+      "desc": "دجاج بالنكهة المكسيكية الحارة",
+      "price": 250,
+      "image": "",
+      "category_id": 2,
+      "quick_id": 2,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 34,
+      "name": "سندويش تشيكن ميلانو",
+      "desc": "دجاج ميلانو بالجبنة",
+      "price": 300,
+      "image": "",
+      "category_id": 2,
+      "quick_id": 2,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 35,
+      "name": "سندويش فاهيتا",
+      "desc": "دجاج فاهيتا مع الخضار المشوي",
+      "price": 300,
+      "image": "",
+      "category_id": 2,
+      "quick_id": 2,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 36,
+      "name": "سندويش بطاطا عادي",
+      "desc": "بطاطا مقلية مع الصوص بالخبز",
+      "price": 120,
+      "image": "",
+      "category_id": 2,
+      "quick_id": 2,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 37,
+      "name": "سندويش بطاطا سوبر",
+      "desc": "بطاطا مع جبنة وصوص إضافي",
+      "price": 150,
+      "image": "",
+      "category_id": 2,
+      "quick_id": 2,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 38,
+      "name": "سندويش بطاطا دبل",
+      "desc": "دبل بطاطا مع جبنة وصوص",
+      "price": 180,
+      "image": "",
+      "category_id": 2,
+      "quick_id": 2,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 39,
+      "name": "سندويش ستيك لحمة",
+      "desc": "شرائح ستيك لحم مع الخضار",
+      "price": 350,
+      "image": "",
+      "category_id": 2,
+      "quick_id": 2,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 40,
+      "name": "وجبة بروستد ٤ قطع",
+      "desc": "٤ قطع بروستد مع بطاطا ومشروب",
+      "price": 650,
+      "image": "",
+      "category_id": 2,
+      "quick_id": 1,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 41,
+      "name": "وجبة بروستد ٨ قطع",
+      "desc": "٨ قطع بروستد مع الملحقات",
+      "price": 1300,
+      "image": "",
+      "category_id": 2,
+      "quick_id": 1,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 42,
+      "name": "وجبة بروستد ١٢ قطعة",
+      "desc": "١٢ قطعة بروستد للمشاركة",
+      "price": 1900,
+      "image": "",
+      "category_id": 2,
+      "quick_id": 1,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 43,
+      "name": "وجبة بروستد ١٦ قطعة",
+      "desc": "١٦ قطعة بروستد وجبة عائلية",
+      "price": 2500,
+      "image": "",
+      "category_id": 2,
+      "quick_id": 1,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 44,
+      "name": "وجبة بروستد ٢٠ قطعة",
+      "desc": "٢٠ قطعة بروستد للعائلات الكبيرة",
+      "price": 3200,
+      "image": "",
+      "category_id": 2,
+      "quick_id": 1,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 45,
+      "name": "وجبة بروستد ٢٤ قطعة",
+      "desc": "٢٤ قطعة بروستد لأكبر تجمّع",
+      "price": 3800,
+      "image": "",
+      "category_id": 2,
+      "quick_id": 1,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 46,
+      "name": "وجبة كريسبي ٥ قطع",
+      "desc": "٥ قطع دجاج كريسبي مع بطاطا ومشروب",
+      "price": 550,
+      "image": "",
+      "category_id": 2,
+      "quick_id": 1,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 47,
+      "name": "وجبة كريسبي ١٢ قطع",
+      "desc": "١٢ قطعة كريسبي مع الملحقات",
+      "price": 1250,
+      "image": "",
+      "category_id": 2,
+      "quick_id": 1,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 48,
+      "name": "وجبة كريسبي ستيشن",
+      "desc": "كريسبي بخلطة المطعم مع بطاطا ومشروب",
+      "price": 500,
+      "image": "",
+      "category_id": 2,
+      "quick_id": 1,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 49,
+      "name": "وجبة ناغت تشيكن ١٠ قطع",
+      "desc": "١٠ قطع ناغت دجاج مع بطاطا ومشروب",
+      "price": 550,
+      "image": "",
+      "category_id": 2,
+      "quick_id": 1,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 50,
+      "name": "وجبة بيبي تشكن",
+      "desc": "وجبة دجاج صغيرة مثالية للأطفال",
+      "price": 400,
+      "image": "",
+      "category_id": 2,
+      "quick_id": 1,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 51,
+      "name": "فروج شواية",
+      "desc": "فروج مشوي كامل مع ثوم وبطاطا",
+      "price": 1250,
+      "image": "",
+      "category_id": 3,
+      "quick_id": 1,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 52,
+      "name": "نصف فروج شواية",
+      "desc": "نصف فروج مشوي مع ثوم وبطاطا",
+      "price": 700,
+      "image": "",
+      "category_id": 3,
+      "quick_id": 1,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 53,
+      "name": "كولا عائلي",
+      "desc": "عبوة كولا عائلية كبيرة",
+      "price": 200,
+      "image": "",
+      "category_id": 4,
+      "quick_id": 3,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 54,
+      "name": "كولا تنك",
+      "desc": "كولا علبة معدنية",
+      "price": 70,
+      "image": "",
+      "category_id": 4,
+      "quick_id": 3,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 55,
+      "name": "كولا طبوش",
+      "desc": "كولا حجم صغير",
+      "price": 50,
+      "image": "",
+      "category_id": 4,
+      "quick_id": 3,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 56,
+      "name": "عصير",
+      "desc": "عصير طازج منعش",
+      "price": 40,
+      "image": "",
+      "category_id": 4,
+      "quick_id": 3,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 57,
+      "name": "لبن عيران",
+      "desc": "لبن عيران بارد",
+      "price": 40,
+      "image": "",
+      "category_id": 4,
+      "quick_id": 3,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 58,
+      "name": "مياه معدنية صغيرة",
+      "desc": "عبوة مياه صغيرة",
+      "price": 40,
+      "image": "",
+      "category_id": 4,
+      "quick_id": 3,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 59,
+      "name": "مياه معدنية كبيرة",
+      "desc": "عبوة مياه كبيرة",
+      "price": 60,
+      "image": "",
+      "category_id": 4,
+      "quick_id": 3,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 60,
+      "name": "سلطة ستيشن",
+      "desc": "سلطة المطعم الخاصة الطازجة",
+      "price": 450,
+      "image": "",
+      "category_id": 5,
+      "quick_id": 3,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 61,
+      "name": "كول سلو",
+      "desc": "سلطة كول سلو كريمية",
+      "price": 350,
+      "image": "",
+      "category_id": 5,
+      "quick_id": 3,
+      "addons": [],
+      "available": true
+    },
+    {
+      "id": 62,
+      "name": "سلطة سيزر",
+      "desc": "سلطة سيزر مع الدجاج والصوص",
+      "price": 400,
+      "image": "",
+      "category_id": 5,
+      "quick_id": 3,
+      "addons": [],
+      "available": true
+    }
+  ],
+  "categories": {
+    "main": [
+      {
+        "id": 1,
+        "name": "شاورما"
+      },
+      {
+        "id": 2,
+        "name": "غربي"
+      },
+      {
+        "id": 3,
+        "name": "فروج"
+      },
+      {
+        "id": 4,
+        "name": "مشروبات"
+      },
+      {
+        "id": 5,
+        "name": "سلطات"
+      }
+    ],
+    "quick": [
+      {
+        "id": 1,
+        "name": "وجبة"
+      },
+      {
+        "id": 2,
+        "name": "سندويشة"
+      },
+      {
+        "id": 3,
+        "name": "ملحقات"
+      }
+    ]
+  },
+  "addons": [
+    {
+      "id": 1,
+      "name": "حد",
+      "price": 0
+    },
+    {
+      "id": 2,
+      "name": "دبس رمان",
+      "price": 0
+    },
+    {
+      "id": 3,
+      "name": "صلصة حارة",
+      "price": 0
+    },
+    {
+      "id": 4,
+      "name": "بطاطا إضافية",
+      "price": 2
+    },
+    {
+      "id": 5,
+      "name": "جبنة",
+      "price": 3
+    }
+  ]
+}
